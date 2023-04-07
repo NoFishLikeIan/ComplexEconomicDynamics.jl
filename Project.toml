@@ -3,6 +3,12 @@ uuid = "e7ad4564-00ba-46ed-9a4f-8f4cdf8b4067"
 authors = ["Andrea Titton"]
 version = "0.1.0"
 
+[deps]
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+DynamicalSystemsBase = "6e36e845-645a-534a-86f2-f5d4aa5a06b4"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
 [compat]
 julia = "1"
 
